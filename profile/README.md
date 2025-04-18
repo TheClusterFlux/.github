@@ -8,7 +8,7 @@ To get started, follow these steps:
 
 1. **Create a Repository**:  
    Create a new repository in the organization using the `new-project-template`.  
-   Make sure the repository is set to **public**.
+   Make sure the repository is set to `public`.
 
 2. **Follow the Instructions**:  
    Further instructions should be available in the README of the newly created repository.  
